@@ -1,0 +1,10 @@
+<resources>
+    <string name="app_name">BruttoNettoRechner</string>
+
+    <string name="hello_world">Hello world!</string>
+    <string name="txt_anweisung">Gib einen Geldbetrag ein!</string>
+    <string name="txt_netto">Netto</string>
+    <string name="txt_brutto">Brutto</string>
+    <string name="txt_berechnen">Berechnen</string>
+    <string name="action_settings">Settings</string>
+</resources>
