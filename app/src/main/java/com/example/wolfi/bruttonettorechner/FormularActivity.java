@@ -51,7 +51,7 @@ public class FormularActivity extends AppCompatActivity {
         intent.putExtra(BETRAG_ART, isNetto);
         intent.putExtra(UST_PROZENT, prozentwert);
 
-        startActivities(intent);
+        startActivity(intent);
     }
 
     @Override
