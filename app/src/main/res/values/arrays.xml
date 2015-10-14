@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string-array name="ust_anzeige">
+        <item>20 Prozent</item>
+        <item>10 Prozent</item>
+        <item>12 Prozent</item>
+    </string-array>
+    <integer-array name="ust_werte">
+        <item>20</item>
+        <item>10</item>
+        <item>12</item>
+    </integer-array>
+</resources>
