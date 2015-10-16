@@ -8,4 +8,5 @@
     <string name="txt_berechnen">Berechnen</string>
     <string name="txt_nettobetrag">Nettobetrag</string>
     <string name="txt_bruttobetrag">Bruttobetrag</string>
+    <string name="text_berechnen">Berechnen</string>
 </resources>

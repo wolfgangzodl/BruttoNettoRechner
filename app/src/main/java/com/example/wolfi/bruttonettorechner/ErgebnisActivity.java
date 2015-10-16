@@ -32,6 +32,6 @@ public class ErgebnisActivity extends Activity {
         txtNettobetrag.setText(String.valueOf(ergebnis.betragNetto));
         final TextView txtBruttobetrag = (TextView) findViewById(R.id.txt_bruttobetrag);
         txtBruttobetrag.setText(String.valueOf(ergebnis.betragBrutto));
-        
+
     }
 }
