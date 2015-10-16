@@ -19,7 +19,7 @@ public class Ergebnis {
         }
         else {
             betragBrutto = betrag;
-            betragUst = betrag * ustProzent / (100 + ustProzent);
+            betragUst = betrag / ustProzent * (100 + ustProzent);
             betragNetto = betrag - betragUst;
         }
 
